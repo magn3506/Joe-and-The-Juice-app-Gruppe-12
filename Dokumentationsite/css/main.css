@@ -156,3 +156,56 @@ li{
 #ff{
     padding: 2em;
 }
+
+#styletile{
+    padding: 2em;
+}
+
+#styletile .color1{
+    background-color: #fffc00;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color2{
+    background-color: #ef5219;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color3{
+    background-color: #e30100;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color4{
+    background-color: #ffa62d;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color5{
+    background-color: #0caac8;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color6{
+    background-color: #97c600;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+#styletile .color7{
+    background-color: #f6bbd0;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+}
