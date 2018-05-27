@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 489 268">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5a24c;
+        stroke: #f5a24c;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        font-size: 16px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #707070;
+      }
+
+      .cls-6 {
+        fill: #707070;
+        font-size: 10px;
+      }
+
+      .cls-6, .cls-9 {
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+
+      .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-12 {
+        filter: url(#Rectangle_1466);
+      }
+    </style>
+    <filter id="Rectangle_1466" x="0" y="0" width="489" height="268" filterUnits="userSpaceOnUse">
+      <feOffset dx="4" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_22" data-name="Group 22" transform="translate(-20 -295)">
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, 20, 295)">
+      <g id="Rectangle_1466-2" data-name="Rectangle 1466" class="cls-1" transform="translate(2 2)">
+        <rect class="cls-10" width="477" height="256" rx="18"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="476" height="255" rx="17.5"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice" transform="translate(38.328 305.575)">
+      <g id="Group_9" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17" data-name="Path 17" d="M51.244,35.716h0c-.586-5.082-4.4-9.48-9.089-10.262H40.2L38.93,18.808a.537.537,0,0,0-.293-.489L31.991,10.7a.484.484,0,0,0-.684.684L38.05,19.1l1.173,6.353H37.366c-4.593.782-8.5,5.278-9.089,10.36a1.149,1.149,0,0,0-.977,1.075v1.955a1.085,1.085,0,0,0,1.075,1.075h.2v.293l.782,5.571h0v.1L32.48,68.749a1.065,1.065,0,0,0,1.075.977h12.9a1.065,1.065,0,0,0,1.075-.977l2.346-19.742h0l1.075-8.894v-.293h.2a1.085,1.085,0,0,0,1.075-1.075V36.791A1.377,1.377,0,0,0,51.244,35.716ZM37.366,26.431h4.691c4.1.782,7.623,4.789,8.209,9.284H31.991l.293-1.173a7.99,7.99,0,0,1,5.18-5.278.464.464,0,1,0-.293-.88,9.217,9.217,0,0,0-5.864,5.864,7.321,7.321,0,0,0-.391,1.564H29.059C29.841,31.122,33.359,27.115,37.366,26.431Zm12.51,13.487v.1l-.977,8.5H39.516a.489.489,0,1,0,0,.977H48.8L46.553,68.651a.1.1,0,0,1-.1.1h-12.9a.1.1,0,0,1-.1-.1l-3.03-22.381h9.187a.489.489,0,1,0,0-.977H30.232l-.684-5.278c0-.1,0-.1.1-.2Zm1.271-1.173a.1.1,0,0,1-.1.1H28.375a.1.1,0,0,1-.1-.1V36.791a.1.1,0,0,1,.1-.1H51.049a.1.1,0,0,1,.1.1v1.955Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18" data-name="Path 18" d="M34.4,53.589a.462.462,0,0,0,.489.489h9.773a.489.489,0,1,0,0-.977H34.889A.462.462,0,0,0,34.4,53.589Z" transform="translate(-27.461 -11.515)"/>
+      </g>
+    </g>
+    <text id="MIGHTY_JUICE" data-name="MIGHTY JUICE" class="cls-2" transform="translate(70 327)"><tspan x="0" y="13">MIGHTY JUICE</tspan></text>
+    <g id="Group_14" data-name="Group 14" transform="translate(-102 170)">
+      <g id="Rectangle_1460" data-name="Rectangle 1460" class="cls-3" transform="translate(167 271)">
+        <rect class="cls-10" width="63" height="60"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="62" height="59"/>
+      </g>
+      <g id="Rectangle_1461" data-name="Rectangle 1461" class="cls-3" transform="translate(249 271)">
+        <rect class="cls-10" width="63" height="60"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="62" height="59"/>
+      </g>
+      <g id="Rectangle_1462" data-name="Rectangle 1462" class="cls-3" transform="translate(331 271)">
+        <rect class="cls-10" width="63" height="60"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="62" height="59"/>
+      </g>
+      <g id="Rectangle_1463" data-name="Rectangle 1463" class="cls-3" transform="translate(413 271)">
+        <rect class="cls-10" width="63" height="60"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="62" height="59"/>
+      </g>
+      <g id="Rectangle_1464" data-name="Rectangle 1464" class="cls-3" transform="translate(495 271)">
+        <rect class="cls-10" width="63" height="60"/>
+        <rect class="cls-11" x="0.5" y="0.5" width="62" height="59"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice-2" data-name="joe-product-icon_juice" transform="translate(87 445.295)">
+      <g id="Group_9-2" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17-2" data-name="Path 17" d="M47.716,32.007h0c-.5-4.333-3.75-8.083-7.75-8.75H38.3l-1.083-5.666a.458.458,0,0,0-.25-.417l-5.666-6.5a.412.412,0,0,0-.583.583l5.75,6.583,1,5.416H35.883c-3.917.667-7.25,4.5-7.75,8.833a.979.979,0,0,0-.833.917v1.667a.925.925,0,0,0,.917.917h.167v.25l.667,4.75h0v.083l2.667,19.5a.908.908,0,0,0,.917.833h11a.908.908,0,0,0,.917-.833l2-16.833h0l.917-7.583v-.25h.167a.925.925,0,0,0,.917-.917V32.924A1.175,1.175,0,0,0,47.716,32.007ZM35.883,24.091h4c3.5.667,6.5,4.083,7,7.916H31.3l.25-1a6.812,6.812,0,0,1,4.416-4.5.4.4,0,1,0-.25-.75,7.859,7.859,0,0,0-5,5,6.242,6.242,0,0,0-.333,1.333H28.8C29.467,28.091,32.466,24.674,35.883,24.091Zm10.666,11.5v.083l-.833,7.25h-8a.417.417,0,1,0,0,.833h7.916L43.716,60.09a.082.082,0,0,1-.083.083h-11a.082.082,0,0,1-.083-.083L29.967,41.007H37.8a.417.417,0,0,0,0-.833h-8l-.583-4.5c0-.083,0-.083.083-.167Zm1.083-1a.082.082,0,0,1-.083.083H28.217a.082.082,0,0,1-.083-.083V32.924a.082.082,0,0,1,.083-.083H47.549a.082.082,0,0,1,.083.083v1.667Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18-2" data-name="Path 18" d="M34.4,53.517a.394.394,0,0,0,.417.417H43.15a.417.417,0,1,0,0-.833H34.817A.394.394,0,0,0,34.4,53.517Z" transform="translate(-28.484 -17.643)"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice-3" data-name="joe-product-icon_juice" transform="translate(169 445.295)">
+      <g id="Group_9-3" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17-3" data-name="Path 17" d="M47.716,32.007h0c-.5-4.333-3.75-8.083-7.75-8.75H38.3l-1.083-5.666a.458.458,0,0,0-.25-.417l-5.666-6.5a.412.412,0,0,0-.583.583l5.75,6.583,1,5.416H35.883c-3.917.667-7.25,4.5-7.75,8.833a.979.979,0,0,0-.833.917v1.667a.925.925,0,0,0,.917.917h.167v.25l.667,4.75h0v.083l2.667,19.5a.908.908,0,0,0,.917.833h11a.908.908,0,0,0,.917-.833l2-16.833h0l.917-7.583v-.25h.167a.925.925,0,0,0,.917-.917V32.924A1.175,1.175,0,0,0,47.716,32.007ZM35.883,24.091h4c3.5.667,6.5,4.083,7,7.916H31.3l.25-1a6.812,6.812,0,0,1,4.416-4.5.4.4,0,1,0-.25-.75,7.859,7.859,0,0,0-5,5,6.242,6.242,0,0,0-.333,1.333H28.8C29.467,28.091,32.466,24.674,35.883,24.091Zm10.666,11.5v.083l-.833,7.25h-8a.417.417,0,1,0,0,.833h7.916L43.716,60.09a.082.082,0,0,1-.083.083h-11a.082.082,0,0,1-.083-.083L29.967,41.007H37.8a.417.417,0,0,0,0-.833h-8l-.583-4.5c0-.083,0-.083.083-.167Zm1.083-1a.082.082,0,0,1-.083.083H28.217a.082.082,0,0,1-.083-.083V32.924a.082.082,0,0,1,.083-.083H47.549a.082.082,0,0,1,.083.083v1.667Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18-3" data-name="Path 18" d="M34.4,53.517a.394.394,0,0,0,.417.417H43.15a.417.417,0,1,0,0-.833H34.817A.394.394,0,0,0,34.4,53.517Z" transform="translate(-28.484 -17.643)"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice-4" data-name="joe-product-icon_juice" transform="translate(251 445.295)">
+      <g id="Group_9-4" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17-4" data-name="Path 17" d="M47.716,32.007h0c-.5-4.333-3.75-8.083-7.75-8.75H38.3l-1.083-5.666a.458.458,0,0,0-.25-.417l-5.666-6.5a.412.412,0,0,0-.583.583l5.75,6.583,1,5.416H35.883c-3.917.667-7.25,4.5-7.75,8.833a.979.979,0,0,0-.833.917v1.667a.925.925,0,0,0,.917.917h.167v.25l.667,4.75h0v.083l2.667,19.5a.908.908,0,0,0,.917.833h11a.908.908,0,0,0,.917-.833l2-16.833h0l.917-7.583v-.25h.167a.925.925,0,0,0,.917-.917V32.924A1.175,1.175,0,0,0,47.716,32.007ZM35.883,24.091h4c3.5.667,6.5,4.083,7,7.916H31.3l.25-1a6.812,6.812,0,0,1,4.416-4.5.4.4,0,1,0-.25-.75,7.859,7.859,0,0,0-5,5,6.242,6.242,0,0,0-.333,1.333H28.8C29.467,28.091,32.466,24.674,35.883,24.091Zm10.666,11.5v.083l-.833,7.25h-8a.417.417,0,1,0,0,.833h7.916L43.716,60.09a.082.082,0,0,1-.083.083h-11a.082.082,0,0,1-.083-.083L29.967,41.007H37.8a.417.417,0,0,0,0-.833h-8l-.583-4.5c0-.083,0-.083.083-.167Zm1.083-1a.082.082,0,0,1-.083.083H28.217a.082.082,0,0,1-.083-.083V32.924a.082.082,0,0,1,.083-.083H47.549a.082.082,0,0,1,.083.083v1.667Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18-4" data-name="Path 18" d="M34.4,53.517a.394.394,0,0,0,.417.417H43.15a.417.417,0,1,0,0-.833H34.817A.394.394,0,0,0,34.4,53.517Z" transform="translate(-28.484 -17.643)"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice-5" data-name="joe-product-icon_juice" transform="translate(333 445.295)">
+      <g id="Group_9-5" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17-5" data-name="Path 17" d="M47.716,32.007h0c-.5-4.333-3.75-8.083-7.75-8.75H38.3l-1.083-5.666a.458.458,0,0,0-.25-.417l-5.666-6.5a.412.412,0,0,0-.583.583l5.75,6.583,1,5.416H35.883c-3.917.667-7.25,4.5-7.75,8.833a.979.979,0,0,0-.833.917v1.667a.925.925,0,0,0,.917.917h.167v.25l.667,4.75h0v.083l2.667,19.5a.908.908,0,0,0,.917.833h11a.908.908,0,0,0,.917-.833l2-16.833h0l.917-7.583v-.25h.167a.925.925,0,0,0,.917-.917V32.924A1.175,1.175,0,0,0,47.716,32.007ZM35.883,24.091h4c3.5.667,6.5,4.083,7,7.916H31.3l.25-1a6.812,6.812,0,0,1,4.416-4.5.4.4,0,1,0-.25-.75,7.859,7.859,0,0,0-5,5,6.242,6.242,0,0,0-.333,1.333H28.8C29.467,28.091,32.466,24.674,35.883,24.091Zm10.666,11.5v.083l-.833,7.25h-8a.417.417,0,1,0,0,.833h7.916L43.716,60.09a.082.082,0,0,1-.083.083h-11a.082.082,0,0,1-.083-.083L29.967,41.007H37.8a.417.417,0,0,0,0-.833h-8l-.583-4.5c0-.083,0-.083.083-.167Zm1.083-1a.082.082,0,0,1-.083.083H28.217a.082.082,0,0,1-.083-.083V32.924a.082.082,0,0,1,.083-.083H47.549a.082.082,0,0,1,.083.083v1.667Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18-5" data-name="Path 18" d="M34.4,53.517a.394.394,0,0,0,.417.417H43.15a.417.417,0,1,0,0-.833H34.817A.394.394,0,0,0,34.4,53.517Z" transform="translate(-28.484 -17.643)"/>
+      </g>
+    </g>
+    <g id="joe-product-icon_juice-6" data-name="joe-product-icon_juice" transform="translate(415 445.295)">
+      <g id="Group_9-6" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_17-6" data-name="Path 17" d="M47.716,32.007h0c-.5-4.333-3.75-8.083-7.75-8.75H38.3l-1.083-5.666a.458.458,0,0,0-.25-.417l-5.666-6.5a.412.412,0,0,0-.583.583l5.75,6.583,1,5.416H35.883c-3.917.667-7.25,4.5-7.75,8.833a.979.979,0,0,0-.833.917v1.667a.925.925,0,0,0,.917.917h.167v.25l.667,4.75h0v.083l2.667,19.5a.908.908,0,0,0,.917.833h11a.908.908,0,0,0,.917-.833l2-16.833h0l.917-7.583v-.25h.167a.925.925,0,0,0,.917-.917V32.924A1.175,1.175,0,0,0,47.716,32.007ZM35.883,24.091h4c3.5.667,6.5,4.083,7,7.916H31.3l.25-1a6.812,6.812,0,0,1,4.416-4.5.4.4,0,1,0-.25-.75,7.859,7.859,0,0,0-5,5,6.242,6.242,0,0,0-.333,1.333H28.8C29.467,28.091,32.466,24.674,35.883,24.091Zm10.666,11.5v.083l-.833,7.25h-8a.417.417,0,1,0,0,.833h7.916L43.716,60.09a.082.082,0,0,1-.083.083h-11a.082.082,0,0,1-.083-.083L29.967,41.007H37.8a.417.417,0,0,0,0-.833h-8l-.583-4.5c0-.083,0-.083.083-.167Zm1.083-1a.082.082,0,0,1-.083.083H28.217a.082.082,0,0,1-.083-.083V32.924a.082.082,0,0,1,.083-.083H47.549a.082.082,0,0,1,.083.083v1.667Z" transform="translate(-27.3 -10.55)"/>
+        <path id="Path_18-6" data-name="Path 18" d="M34.4,53.517a.394.394,0,0,0,.417.417H43.15a.417.417,0,1,0,0-.833H34.817A.394.394,0,0,0,34.4,53.517Z" transform="translate(-28.484 -17.643)"/>
+      </g>
+    </g>
+    <text id="PRICE" class="cls-2" transform="translate(43 381)"><tspan x="0" y="13">PRICE</tspan></text>
+    <text id="NORMAL_PRICE" data-name="NORMAL PRICE" class="cls-2" transform="translate(43 406)"><tspan x="0" y="13">NORMAL PRICE</tspan></text>
+    <text id="_220_kr" data-name="220 kr" class="cls-4" transform="translate(429 379)"><tspan x="0" y="15">220 kr</tspan></text>
+    <text id="_290_kr" data-name="290 kr" class="cls-4" transform="translate(430 404)"><tspan x="0" y="15">290 kr</tspan></text>
+    <line id="Line_6" data-name="Line 6" class="cls-5" x2="50" y2="22" transform="translate(427.5 401.5)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-5" y1="23" x2="50" transform="translate(427.5 401.5)"/>
+    <text id="_JOEANDTHEJUICE_JOEANDTHEJUICE_JOEJUICE.COM_" data-name="#JOEANDTHEJUICE  |  @JOEANDTHEJUICE  |  JOEJUICE.COM " class="cls-6" transform="translate(123 514)"><tspan x="0" y="9" xml:space="preserve">#JOEANDTHEJUICE  |  @JOEANDTHEJUICE  |  JOEJUICE.COM </tspan></text>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-7" transform="translate(465 519)">
+      <circle class="cls-10" cx="10.5" cy="10.5" r="10.5"/>
+      <circle class="cls-11" cx="10.5" cy="10.5" r="10"/>
+    </g>
+    <line id="Line_8" data-name="Line 8" class="cls-7" x2="14" transform="translate(468.5 529.5)"/>
+    <line id="Line_9" data-name="Line 9" class="cls-7" y2="14" transform="translate(475.5 522.5)"/>
+    <g id="a8a7e8aaaec4f29003dae50dd72da3d8" transform="translate(26.668 508.668)">
+      <path id="Path_33" data-name="Path 33" class="cls-8" d="M17.616,17.616H10V10h7.616Zm-6.193-1.423h4.768v-4.77H11.423v4.77Z"/>
+      <path id="Path_34" data-name="Path 34" class="cls-8" d="M132.4,132.4h2.539v2.539H132.4Z" transform="translate(-119.861 -119.861)"/>
+      <path id="Path_35" data-name="Path 35" class="cls-8" d="M17.616,629.439H10V621.8h7.616Zm-6.193-1.423h4.768v-4.793H11.423v4.793Z" transform="translate(0 -599.107)"/>
+      <path id="Path_36" data-name="Path 36" class="cls-8" d="M132.4,745.3h2.539v2.515H132.4Z" transform="translate(-119.861 -720.044)"/>
+      <path id="Path_37" data-name="Path 37" class="cls-8" d="M629.439,17.616H621.8V10h7.639Zm-6.216-1.423h4.793v-4.77h-4.793Z" transform="translate(-599.107)"/>
+      <path id="Path_38" data-name="Path 38" class="cls-8" d="M745.3,132.4h2.515v2.539H745.3Z" transform="translate(-720.044 -119.861)"/>
+      <path id="Path_39" data-name="Path 39" class="cls-8" d="M10,377.1h2.539v2.562H10Z" transform="translate(0 -359.484)"/>
+      <path id="Path_40" data-name="Path 40" class="cls-8" d="M254.7,500.6h2.539v2.515H254.7V500.6Z" transform="translate(-239.623 -480.421)"/>
+      <path id="Path_41" data-name="Path 41" class="cls-8" d="M500.6,10h2.515v2.539H500.6Z" transform="translate(-480.421)"/>
+      <path id="Path_42" data-name="Path 42" class="cls-8" d="M377.1,254.7h2.562v2.539H377.1Z" transform="translate(-359.484 -239.623)"/>
+      <path id="Path_43" data-name="Path 43" class="cls-8" d="M500.6,866.5h2.515v2.562H500.6Z" transform="translate(-480.421 -838.73)"/>
+      <path id="Path_44" data-name="Path 44" class="cls-8" d="M745.3,866.5h5.077v2.562H745.3Z" transform="translate(-720.044 -838.73)"/>
+      <path id="Path_45" data-name="Path 45" class="cls-8" d="M500.6,621.8h5.077v2.562H500.6Z" transform="translate(-480.421 -599.107)"/>
+      <path id="Path_46" data-name="Path 46" class="cls-8" d="M745.3,621.8h2.515v5.077H745.3Z" transform="translate(-720.044 -599.107)"/>
+      <path id="Path_47" data-name="Path 47" class="cls-8" d="M855.1,621.8h2.8v2.562h-2.8Z" transform="translate(-827.566 -599.107)"/>
+      <path id="Path_48" data-name="Path 48" class="cls-8" d="M500.6,377.1h2.515v2.562H500.6Z" transform="translate(-480.421 -359.484)"/>
+      <path id="Path_49" data-name="Path 49" class="cls-8" d="M621.8,500.6h2.562v2.515H621.8V500.6Z" transform="translate(-599.107 -480.421)"/>
+      <path id="Path_50" data-name="Path 50" class="cls-8" d="M745.3,377.1h2.515v2.562H745.3Z" transform="translate(-720.044 -359.484)"/>
+      <path id="Path_51" data-name="Path 51" class="cls-8" d="M866.5,500.6h2.562v2.515H866.5V500.6Z" transform="translate(-838.73 -480.421)"/>
+    </g>
+    <text id="_5_X_JUICES_SHAKES_16oz_EXTRA_INGREDIENT" data-name="5 X JUICES/SHAKES (16oz) + EXTRA INGREDIENT" class="cls-9" transform="translate(70 344)"><tspan x="0" y="11">5 X JUICES/SHAKES (16oz) </tspan><tspan x="0" y="25">+ EXTRA INGREDIENT</tspan></text>
+  </g>
+</svg>
