@@ -141,6 +141,10 @@ li{
     padding: 2em;
 }
 
+#daily_3{
+    padding: 2em;
+}
+
 #persona{
     padding: 2em;
 }
@@ -209,4 +213,30 @@ li{
     height: 150px;
     width: 150px;
     border-radius: 30px;
+}
+
+#expiriencemap{
+    padding: 2em;
+}
+
+#designcharette{
+    padding: 2em;
+}
+
+#papirprototype{
+    padding: 2em;
+}
+
+#nabc{
+    padding: 2em;
+}
+
+#xdprototype img{
+    padding: 2em;
+    width: 50%;
+}
+
+#assetlist img{
+    padding: 2em;
+    width: 30%;
 }
