@@ -261,3 +261,24 @@ li{
     padding: 4px;
     background-color: #edc0d7;
 }
+
+#test a{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    border: solid 1px white;
+    padding: 4px;
+}
+
+#test a:hover{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    border: solid 1px #edc0d7;
+    padding: 4px;
+    background-color: #edc0d7;
+}
+
+#test{
+    padding: 2em;
+}
